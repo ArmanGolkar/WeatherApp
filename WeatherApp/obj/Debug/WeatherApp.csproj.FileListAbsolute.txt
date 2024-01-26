@@ -1,0 +1,14 @@
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\PIXEL SHOP\Desktop\School\23sep\sodv2101\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.pdb
